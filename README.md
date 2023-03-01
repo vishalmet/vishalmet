@@ -1,19 +1,19 @@
 
 
-<h1 align="center">Hi 👋, I'm Karthik</h1>
+<h1 align="center">Hi 👋, I'm Manikandan</h1>
 <h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=karthik242002&label=Profile%20views&color=0e75b6&style=flat" alt="vmmuthu31" /> </p>
-<a href="#karthik242002-title">
+<a href="#Manikandan-title">
   <img src="https://github-readme-stats.vercel.app/api?username=karthik242002&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="karthik242002 S" align="right" />
 </a>
 
-- 👋 Hi, I’m @karthik242002
+- 👋 Hi, I’m @Manicdon7
 - 👀 I’m interested to recreate the coding
 - 🌱 I’m currently learning B.E(CSE) in Jaya Engineering College
 - 💞️ I’m looking to collaborate with new things 
-- 📫 Reach me on karthiksiva153@gmail.com
-- 💻  Connect with me on https://www.linkedin.com/in/karthik-s-9a6121237/
+- 📫 Reach me on manicdon7@gmail.com
+- 💻  Connect with me on https://www.linkedin.com/in/mani-kandan-1b0846248/
 
 <br>
 
