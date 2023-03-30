@@ -228,15 +228,15 @@ Here are some 🦜 Party Parrots:
 <table align="center">
   <tr>
     <td align="center" width="1000">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thirumurugan7&show_icons=true&locale=en&layout=compact" alt="thirumurugan7" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manicdon7&show_icons=true&locale=en&layout=compact" alt="manicdon7" /></p>
 </td>
 <tr>
     <td align="center" width="1000">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thirumurugan7&show_icons=true&locale=en" alt="thirumurugan7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manicdon7&show_icons=true&locale=en" alt="manicdon7" /></p>
 </td>
 <tr>
     <td align="center" width="1000">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thirumurugan7&" alt="thirumurugan7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manicdon7&" alt="manicdon7" /></p>
 </td>
 <tr>
     <td align="center" width="1000">
