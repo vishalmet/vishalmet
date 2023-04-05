@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Manikandan</h1>
 <h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=karthik242002&label=Profile%20views&color=0e75b6&style=flat" alt="Manikandan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=manicdon7&label=Profile%20views&color=0e75b6&style=flat" alt="Manikandan" /> </p>
 <a href="#Manikandan-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manikandan&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Manikandan" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manicdon7&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Manikandan" align="right" />
 </a>
 
 - 👋 Hi, I’m @Manicdon7
@@ -104,7 +104,7 @@
       <br>Electron
     </td>
     <td align="center" width="96">
-      <a href="#manikandan">
+      <a href="#Manikandan">
         <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
       </a>
       <br>Firebase
@@ -160,7 +160,7 @@
       <br>Tensorflow
     </td>
     <td align="center" width="96">
-      <a href="#suhailakar-tech">
+      <a href="#Manikandan">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
       </a>
       <br>Material ui
@@ -184,7 +184,7 @@
       <br>Next JS
     </td>
              <td align="center" width="96"> 
-      <a href="#manikandan" >
+      <a href="#Manikandan" >
         <img src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" width="48" height="48" alt="Google Cloud" />
       </a>
       <br>G Cloud
