@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm manicdon7</h1>
+<h1 align="center">Hi 👋, I'm Mani kandan</h1>
 <h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manicdon7&label=Profile%20views&color=0e75b6&style=flat" alt="manicdon7" /> </p>
@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=manicdon7&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="manicdon7" align="right" />
 </a>
 
-- 👋 Hi, I’m @manicdon7
+- 👋 Hi, I’m Manikandan
 - 👀 I’m interested to recreate the coding
 - 🌱 I’m currently learning B.E(CSE) in Jaya Engineering College
 - 💞️ I’m looking to collaborate with new things 
