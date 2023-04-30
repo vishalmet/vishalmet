@@ -236,7 +236,7 @@ Here are some 🦜 Party Parrots:
 </td>
 <tr>
     <td align="center" width="1000">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manicdon7&" alt="manicdon7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manicdon7"&& alt="manicdon7" /></p>
 </td>
 <tr>
     <td align="center" width="1000">
