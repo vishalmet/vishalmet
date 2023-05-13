@@ -10,7 +10,7 @@
 
 - 👋 Hi, I’m Manikandan
 - 👀 I’m interested to recreate the coding
-- 🌱 I’m currently learning B.E(CSE) in Jaya Engineering College
+- 🌱 I’m currently pursuing B.E(CSE) in Jaya Engineering College
 - 💞️ I’m looking to collaborate with new things 
 - 📫 Reach me on manicdon7@gmail.com
 - 💻  Connect with me on https://www.linkedin.com/in/mani-kandan-1b0846248/
