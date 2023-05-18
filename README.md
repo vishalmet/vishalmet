@@ -233,11 +233,6 @@ Here are some 🦜 Party Parrots:
 </td>
 <tr>
     <td align="center" width="1000">
-[![GitHub followers](https://img.shields.io/github/followers/manicdon7?style=social)](https://github.com/manicdon7)
-[![GitHub stars](https://img.shields.io/github/stars/manicdon7?style=social)](https://github.com/manicdon7)
-[![GitHub forks](https://img.shields.io/github/forks/manicdon7?style=social)](https://github.com/manicdon7)
-[![GitHub watchers](https://img.shields.io/github/watchers/manicdon7?style=social)](https://github.com/manicdon7)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=manicdon7&show_icons=true&count_private=true)
 </td>
 <tr>
@@ -248,10 +243,13 @@ Here are some 🦜 Party Parrots:
     <td align="center" width="1000">
 </table>
 # My GitHub Stats
+[![GitHub followers](https://img.shields.io/github/followers/manicdon7?style=social)](https://github.com/manicdon7)
+[![GitHub stars](https://img.shields.io/github/stars/manicdon7?style=social)](https://github.com/manicdon7)
+[![GitHub forks](https://img.shields.io/github/forks/manicdon7?style=social)](https://github.com/manicdon7)
+[![GitHub watchers](https://img.shields.io/github/watchers/manicdon7?style=social)](https://github.com/manicdon7)
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manicdon7&layout=compact)](https://github.com/manicdon7)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manicdon7&layout=compact)](https://github.com/manicdon7) -->
 
 
 
