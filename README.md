@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mani kandan</h1>
 <h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
+<h3>Meet a young, innovative boy driven by curiosity and a thirst for knowledge. He fearlessly explores, dismantles, and experiments to understand the world around him. With boundless energy and creativity, he envisions new possibilities and embraces challenges as opportunities. Through his passion, he inspires others to question, dream, and make a difference. A true catalyst for change, he embodies the power of curiosity and innovation.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manicdon7&label=Profile%20views&color=0e75b6&style=flat" alt="manicdon7" /> </p>
 <a href="#manicdon7-title">
