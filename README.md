@@ -252,8 +252,3 @@ Here are some 🦜 Party Parrots:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=manicdon7&show_icons=true&count_private=true)
 
-
-
-
-
-
