@@ -233,7 +233,14 @@ Here are some 🦜 Party Parrots:
 </td>
 <tr>
     <td align="center" width="1000">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=manicdon7&show_icons=true&count_private=true)
+# My GitHub Stats
+
+[![GitHub followers](https://img.shields.io/github/followers/YourGitHubUsername?style=social)](https://github.com/YourGitHubUsername)
+[![GitHub stars](https://img.shields.io/github/stars/YourGitHubUsername?style=social)](https://github.com/YourGitHubUsername)
+[![GitHub forks](https://img.shields.io/github/forks/YourGitHubUsername?style=social)](https://github.com/YourGitHubUsername)
+[![GitHub watchers](https://img.shields.io/github/watchers/YourGitHubUsername?style=social)](https://github.com/YourGitHubUsername)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true)
 </td>
 <tr>
     <td align="center" width="1000">
