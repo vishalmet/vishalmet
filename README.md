@@ -242,6 +242,16 @@ Here are some 🦜 Party Parrots:
 <tr>
     <td align="center" width="1000">
 </table>
+# My GitHub Stats
+
+[![GitHub followers](https://img.shields.io/github/followers/manicdon07?style=social)](https://github.com/manicdon7)
+[![GitHub stars](https://img.shields.io/github/stars/manicdon07?style=social)](https://github.com/manicdon7)
+[![GitHub forks](https://img.shields.io/github/forks/manicdon07?style=social)](https://github.com/manicdon07)
+[![GitHub watchers](https://img.shields.io/github/watchers/manicdon07?style=social)](https://github.com/manicdon07)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=manicdon07&show_icons=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manicdon07&layout=compact)](https://github.com/manicdon07)
 
 
 
