@@ -235,10 +235,10 @@ Here are some 🦜 Party Parrots:
     <td align="center" width="1000">
 # My GitHub Stats
 
-[![GitHub followers](https://img.shields.io/github/followers/YourGitHubUsername?style=social)](https://github.com/YourGitHubUsername)
-[![GitHub stars](https://img.shields.io/github/stars/YourGitHubUsername?style=social)](https://github.com/YourGitHubUsername)
-[![GitHub forks](https://img.shields.io/github/forks/YourGitHubUsername?style=social)](https://github.com/YourGitHubUsername)
-[![GitHub watchers](https://img.shields.io/github/watchers/YourGitHubUsername?style=social)](https://github.com/YourGitHubUsername)
+<p>[![GitHub followers](https://img.shields.io/github/followers/manicdon7?style=social)](https://github.com/manicdon7)</p>
+<p>[![GitHub stars](https://img.shields.io/github/stars/manicdon7?style=social)](https://github.com/manicdon7)</p>
+<p>[![GitHub forks](https://img.shields.io/github/forks/manicdon7?style=social)](https://github.com/manicdon7)</p>
+<p>[![GitHub watchers](https://img.shields.io/github/watchers/manicdon7?style=social)](https://github.com/manicdon7)</p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true)
 </td>
