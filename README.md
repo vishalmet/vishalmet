@@ -224,8 +224,6 @@ Here are some 🦜 Party Parrots:
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 
 <table align="center">
