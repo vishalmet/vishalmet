@@ -263,7 +263,4 @@ Here are some 🦜 Party Parrots:
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# Contribution
-
-![snake gif](https://raw.githubusercontent.com/NagiPragalathan/manicdon7/eb8842c58262cfc3019e5c91b9202948fe437254/github-contribution-grid-snake.svg)
 
