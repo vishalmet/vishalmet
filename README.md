@@ -1,8 +1,7 @@
 
 
 <h1 align="center">Hey there 👋, I'm Vishal Aakash</h1>
-<h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
-<h3>As a dynamic Frontend Web Developer and aspiring UI/UX Designer, I am fervently dedicated to continuous learning and embracing emerging technologies.</br> My passion extends to exploring the intricate world of blockchain technology, further enriching my skill set. </br> Committed to creating seamless, user-centric digital experiences, I leverage my expertise to drive innovation in the ever-evolving landscape of web development and design.</h3>
+<h3I'm a seasoned front-end developer proficient in ReactJS, NextJS and Tailwind CSS, with expertise in React Native for mobile app development. Additionally, I've extended my skill set to include blockchain development, enabling me to create innovative decentralized applications (dApps) and contribute to the evolving landscape of blockchain technology.</h3>
 
 <a href="#vishalmet-title">
   <img src="https://github-readme-stats.vercel.app/api?username=vishalmet&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Vishal" align="right" />
@@ -13,7 +12,7 @@
 - 🌱 I’m currently pursuing B.E(CSE) in Jaya Engineering College
 - 💞️ I’m very keen on enriching my skill set by collaborating with fellow devs 
 - 📫 Reach me on vishalmet003@gmail.com
-- 💻  Connect with me on (https://www.linkedin.com/in/vishal-aakash/)
+- 💻 Connect with me on (https://www.linkedin.com/in/vishal-aakash/)
 
 <br>
 
