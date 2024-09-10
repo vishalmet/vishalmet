@@ -124,6 +124,15 @@
       </a>
       <br>Git
     </td>
+ 
+<!--     <td align="center" width="96">
+      <a href="#vishalmet" >
+        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
+    </td> -->
+  </tr>
+   <tr>
         <td align="center" width="96">
       <a href="#vishalmet">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
@@ -136,15 +145,6 @@
       </a>
       <br>TailWind
     </td>
-<!--     <td align="center" width="96">
-      <a href="#vishalmet" >
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td> -->
-  </tr>
-   <tr>
- 
 <!--     <td align="center" width="96">
       <a href="#vishalmet">
         <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
