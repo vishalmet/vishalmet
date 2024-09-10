@@ -1,11 +1,13 @@
 
 
 <h1 align="center">Hey there 👋, I'm Vishal Aakash</h1>
-<h3>I'm a seasoned front-end developer proficient in ReactJS, NextJS and Tailwind CSS, with expertise in React Native for mobile app development. Additionally, I've extended my skill set to include blockchain development, enabling me to create innovative decentralized applications (dApps) and contribute to the evolving landscape of blockchain technology. <br> - 📫 Reach me on vishalmet003@gmail.com
-- 💻 Connect with me on (https://www.linkedin.com/in/vishal-aakash/)</h3>
-
-<a href="#vishalmet-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalmet&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Vishal" align="center" />
+<h3>I'm a seasoned front-end developer proficient in ReactJS, NextJS and Tailwind CSS, with expertise in React Native for mobile app development. Additionally, I've extended my skill set to include blockchain development, enabling me to create innovative decentralized applications (dApps) and contribute to the evolving landscape of blockchain technology.</h3>
+<h5>
+- 📫 Reach me on vishalmet003@gmail.com
+- 💻 Connect with me on (https://www.linkedin.com/in/vishal-aakash/)
+</h5>
+<a align="center" justify="center" href="#vishalmet-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalmet&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Vishal" align="center" justify="center" />
 </a>
 
 
