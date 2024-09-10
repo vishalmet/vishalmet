@@ -2,10 +2,10 @@
 
 <h1 align="center">Hey there 👋, I'm Vishal Aakash</h1>
 <h3>I'm a seasoned front-end developer proficient in ReactJS, NextJS and Tailwind CSS, with expertise in React Native for mobile app development. Additionally, I've extended my skill set to include blockchain development, enabling me to create innovative decentralized applications (dApps) and contribute to the evolving landscape of blockchain technology.</h3>
-<h5>
-- 📫 Reach me on vishalmet003@gmail.com
+<h4>
+- 📫 Reach me on (vishalmet003@gmail.com) <br />
 - 💻 Connect with me on (https://www.linkedin.com/in/vishal-aakash/)
-</h5>
+</h4>
 <a align="center" justify="center" href="#vishalmet-title">
   <img src="https://github-readme-stats.vercel.app/api?username=vishalmet&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Vishal" align="center" justify="center" />
 </a>
@@ -124,6 +124,18 @@
       </a>
       <br>Git
     </td>
+        <td align="center" width="96">
+      <a href="#vishalmet">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+       <td align="center" width="96">
+      <a href="#vishalmet">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="TailWind" />
+      </a>
+      <br>TailWind
+    </td>
 <!--     <td align="center" width="96">
       <a href="#vishalmet" >
         <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
@@ -132,24 +144,14 @@
     </td> -->
   </tr>
    <tr>
-    <td align="center" width="96">
-      <a href="#vishalmet">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="TailWind" />
-      </a>
-      <br>TailWind
-    </td>
+ 
 <!--     <td align="center" width="96">
       <a href="#vishalmet">
         <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
       </a>
       <br>Bash
     </td> -->
-    <td align="center" width="96">
-      <a href="#vishalmet">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
+
 <!--     <td align="center" width="96">
       <a href="#vishalmet">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
