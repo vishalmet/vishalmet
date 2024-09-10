@@ -150,9 +150,9 @@
         <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
       </a>
       <br>Bash
-    </td> -->
+    </td>  -->
 
-<!--     <td align="center" width="96">
+ <--  <td align="center" width="96">
       <a href="#vishalmet">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
       </a>
@@ -187,7 +187,7 @@
         <img src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" width="48" height="48" alt="Google Cloud" />
       </a>
       <br>G Cloud
-    </td> -->
+    </td>
   </tr>
     
 </table>
