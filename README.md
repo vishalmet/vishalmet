@@ -1,18 +1,14 @@
 
 
 <h1 align="center">Hey there 👋, I'm Vishal Aakash</h1>
-<h3I'm a seasoned front-end developer proficient in ReactJS, NextJS and Tailwind CSS, with expertise in React Native for mobile app development. Additionally, I've extended my skill set to include blockchain development, enabling me to create innovative decentralized applications (dApps) and contribute to the evolving landscape of blockchain technology.</h3>
+<h3>I'm a seasoned front-end developer proficient in ReactJS, NextJS and Tailwind CSS, with expertise in React Native for mobile app development. Additionally, I've extended my skill set to include blockchain development, enabling me to create innovative decentralized applications (dApps) and contribute to the evolving landscape of blockchain technology. <br> - 📫 Reach me on vishalmet003@gmail.com
+- 💻 Connect with me on (https://www.linkedin.com/in/vishal-aakash/)</h3>
 
 <a href="#vishalmet-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalmet&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Vishal" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalmet&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Vishal" align="center" />
 </a>
 
-- 👋 Hi, I’m Vishal Aakash
-- 👀 I’m fervently dedicated to continuous learning and embracing emerging technologies
-- 🌱 I’m currently pursuing B.E(CSE) in Jaya Engineering College
-- 💞️ I’m very keen on enriching my skill set by collaborating with fellow devs 
-- 📫 Reach me on vishalmet003@gmail.com
-- 💻 Connect with me on (https://www.linkedin.com/in/vishal-aakash/)
+
 
 <br>
 
@@ -39,12 +35,12 @@
       </a>
       <br>Django
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="#vishalmet">
         <img src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png" width="48" height="48" alt="Azure" />
       </a>
       <br>Azure
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="#vishalmet">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
@@ -90,18 +86,18 @@
       </a>
       <br>Linux
     </td>
-    <td align="center"  width="96">
+<!--     <td align="center"  width="96">
       <a href="#vishalmet">
         <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
       </a>
       <br>Gatsby
-    </td>
-    <td align="center"  width="96">
+    </td> -->
+<!--     <td align="center"  width="96">
       <a href="#vishalmet">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
       </a>
       <br>Electron
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="#vishalmet">
         <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
@@ -126,12 +122,12 @@
       </a>
       <br>Git
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="#vishalmet" >
         <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
-    </td>
+    </td> -->
   </tr>
    <tr>
     <td align="center" width="96">
@@ -140,24 +136,24 @@
       </a>
       <br>TailWind
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="#vishalmet">
         <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
       </a>
       <br>Bash
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="#vishalmet">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
       </a>
       <br>Figma
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="#vishalmet">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
       </a>
       <br>Tensorflow
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="#vishalmet">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
@@ -182,16 +178,16 @@
       </a>
       <br>Next JS
     </td>
-             <td align="center" width="96"> 
+<!--              <td align="center" width="96"> 
       <a href="#vishalmet" >
         <img src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" width="48" height="48" alt="Google Cloud" />
       </a>
       <br>G Cloud
-    </td>
+    </td> -->
   </tr>
     
 </table>
-Here are some 🦜 Party Parrots:
+
 
 
 
