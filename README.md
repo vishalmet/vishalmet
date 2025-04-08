@@ -7,6 +7,7 @@
 <h1 align="center">💫 About Me:</h1>
 <p align="center">A seasoned front-end developer proficient in ReactJS (Vite), NextJS, and Tailwind CSS, I specialize in building robust and user-friendly web applications. My expertise extends to web3 integrations, and I am currently contributing to the decentralized web as a Web3 Frontend Developer at <a href="https://github.com/winksdotfun">@winksdotfun</a> and <a href="https://github.com/caddyfinance">@caddyfinance</a>.</p>
 
+
 <h2 align="center">🌐 Socials:</h2>
 <p align="center">
   <a href="https://linkedin.com/in/vishal-aakash" target="_blank">
@@ -19,6 +20,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
 
 <h2 align="center">💻 Tech Stack:</h2>
 <p align="center">
@@ -63,6 +65,7 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
+
 <h2 align="center">📊 GitHub Stats:</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishalmet&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -72,7 +75,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalmet&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
-<h3 align="center">✍️ Random Dev Quote</h3>
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
