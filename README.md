@@ -23,8 +23,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://vishal-portfolio18.vercel.app/)
 [![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1UOlwNoEPBZ9-0eOFAzmfsSWqFst1oP6R/view)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:dev.vishalaakash@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-Neeraj%20Choubisa-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/vishal-aakash/)
-[![Twitter](https://img.shields.io/badge/-@neerajchoubisa-black?style=for-the-badge&logo=twitter)](https://twitter.com/VishalAakash18)
+[![Linkedin](https://img.shields.io/badge/-Vishal%20Aakash-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/vishal-aakash/)
+[![Twitter](https://img.shields.io/badge/-@VishalAakash18-black?style=for-the-badge&logo=twitter)](https://twitter.com/VishalAakash18)
 
 
 ## 🔗 Github Analysis 
