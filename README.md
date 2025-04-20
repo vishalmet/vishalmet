@@ -14,12 +14,12 @@
 
 ## 🔗 Github Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kali-Decoder&theme=darkhub">
+<img src="https://github-profile-trophy.vercel.app/?username=vishalmet&theme=darkhub">
 </p>
 
 <br />
 
-<h2 align="center">🌐 Socials:</h2>
+## 🔗 Know more about me 
 <p align="center">
   <a href="https://linkedin.com/in/vishal-aakash" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -29,6 +29,9 @@
   </a>
   <a href="mailto:dev.vishalaakash@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+   <a href="https://vishal-portfolio18.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-amber.svg" alt="Portfolio" />
   </a>
 </p>
 
@@ -55,7 +58,7 @@
 </a>
 </p>
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kali-Decoder&" alt="neeraj" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmet&" alt="vishalmet" /></p>
 ## 🛠 Languages and Tools:
 
 <p align="center">
