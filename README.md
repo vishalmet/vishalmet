@@ -20,31 +20,11 @@
 <br />
 
 ## 🔗 Know more about me 
-<p align="center">
-  <a href="https://linkedin.com/in/vishal-aakash" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/VishalAakash18" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" />
-  </a>
-  <a href="mailto:dev.vishalaakash@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-   <a href="https://vishal-portfolio18.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-amber.svg" alt="Portfolio" />
-  </a>
-</p>
-
-
-
-
-## 🔗 Know more about me 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://flowcv.me/NeerajChoubisa)
-[![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://nikku.hackerresume.io/Sl0fLhrYtoiJX8aHXfB9)
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:neerajchoubisa876@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-Neeraj%20Choubisa-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/neeraj-choubisa-a4952b202/)
-[![Twitter](https://img.shields.io/badge/-@neerajchoubisa-black?style=for-the-badge&logo=twitter)](https://twitter.com/itsNikku876)
-[![HackerRank](https://img.shields.io/badge/-@neerajchoubisa-black?style=for-the-badge&logo=HackerRank&logoColor=green)](https://www.hackerrank.com/neerajchoubisa81)
+[![Portfolio](https://img.shields.io/badge/Portfolio-amber.svg)](https://vishal-portfolio18.vercel.app/)
+[![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1UOlwNoEPBZ9-0eOFAzmfsSWqFst1oP6R/view)
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:dev.vishalaakash@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Neeraj%20Choubisa-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/vishal-aakash/)
+[![Twitter](https://img.shields.io/badge/-@neerajchoubisa-black?style=for-the-badge&logo=twitter)](https://twitter.com/VishalAakash18)
 
 
 ## 🔗 Github Analysis 
