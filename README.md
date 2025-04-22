@@ -21,7 +21,7 @@
 
 ## 🔗 Know more about me 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge)](https://vishal-portfolio18.vercel.app/)
-[![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1UOlwNoEPBZ9-0eOFAzmfsSWqFst1oP6R/view)
+[![Resume](https://img.shields.io/badge/-Resume-green?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1UOlwNoEPBZ9-0eOFAzmfsSWqFst1oP6R/view)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:dev.vishalaakash@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishal-aakash/)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VishalAakash18)
