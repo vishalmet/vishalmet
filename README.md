@@ -7,7 +7,7 @@
 
 <br/>
 <br/>
-<p align="center">A seasoned front-end developer proficient in ReactJS (Vite), NextJS, and Tailwind CSS, I specialize in building robust and user-friendly web applications. My expertise extends to web3 integrations, and I am currently contributing to the decentralized web as a Founding Engineer at <a href="https://github.com/caddyfinance">@caddyfinance</a>.
+<p align="center">A seasoned front-end developer proficient in ReactJS (Vite), NextJS, and Tailwind CSS, I specialize in building robust and user-friendly web applications. My expertise extends to web3 integrations, and I am currently contributing to the decentralized web as a Software Engineer at <a href="https://github.com/caddyfinance">@caddyfinance</a>.
 </p>
 
 <br/>
